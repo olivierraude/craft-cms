@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: fr-FR
+name: test-craft
+primary: true
+siteGroup: 02a1f076-f12f-4573-99f2-facbd4042874 # test-craft
+sortOrder: 1

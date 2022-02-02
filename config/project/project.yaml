@@ -1,0 +1,22 @@
+dateModified: 1643740928
+email:
+  fromEmail: olivierraude@gmail.com
+  fromName: test-craft
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    02a1f076-f12f-4573-99f2-facbd4042874: test-craft # test-craft
+    3d331ca1-1671-4885-8f2c-d582fedf1eb3: Common # Common
+    65cc955c-a604-4c39-8421-d2de1614d2b2: test-craft # test-craft
+system:
+  edition: solo
+  live: true
+  name: test-craft
+  schemaVersion: 3.7.8
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
